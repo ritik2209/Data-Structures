@@ -1,4 +1,4 @@
-# Data-Structure
+# Data Structures
 3rd Semester DS Assignments
 
 Batch: Hx
